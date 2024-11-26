@@ -64,6 +64,11 @@
       "number": 13,
       "fruitName": "Rocket Fruit",
       "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"2b39ce5e-916a-47e5-ae53-76adf497bef7\", game:GetService(\"Players\").LocalPlayer)"
+    },
+    {
+      "number": 14,
+      "fruitName": "Magma Fruit",
+      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"a2a2d96f-2b11-4e55-a0ff-f02907835004\", game:GetService(\"Players\").LocalPlayer)"
     }
   ]
 }
