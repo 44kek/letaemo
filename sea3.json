@@ -19,6 +19,11 @@
       "number": 4,
       "fruitName": "Mammoth Fruit",
       "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"3cc23edf-17c7-4efe-936d-9e047b781228\", game:GetService(\"Players\").LocalPlayer)"
+    },
+    {
+      "number": 5,
+      "fruitName": "Sand Fruit",
+      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"238b87a7-4ecf-465e-a424-6f8e47215c3c\", game:GetService(\"Players\").LocalPlayer)"
     }
   ]
 }
