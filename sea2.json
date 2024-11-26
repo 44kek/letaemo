@@ -7,6 +7,10 @@
     {
       "fruitName": "Dark Fruit",
       "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(4442272183, \"ab727471-86c6-4f85-8cff-d06e35b8028d\", game:GetService(\"Players\").LocalPlayer)"
+    },
+    {
+      "fruitName": "Flame Fruit",
+      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(4442272183, \"b47755fc-83ec-4a02-a27c-27e908f95df1\", game:GetService(\"Players\").LocalPlayer)"
     }
   ]
 }
