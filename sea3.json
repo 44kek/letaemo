@@ -2,28 +2,18 @@
   "servers": [
     {
       "number": 1,
-      "fruitName": "Smoke Fruit",
-      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"8ee62712-974a-409d-abe4-b9803c377ca5\", game:GetService(\"Players\").LocalPlayer)"
+      "fruitName": "Sand Fruit",
+      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"475dea99-2d06-4d00-98be-17ceaecc6e5d\", game:GetService(\"Players\").LocalPlayer)"
     },
     {
       "number": 2,
-      "fruitName": "Barrier Fruit",
-      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"b47a72b9-fed2-431a-bf39-dcc9c56ea59c\", game:GetService(\"Players\").LocalPlayer)"
+      "fruitName": "Diamond Fruit",
+      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"b1b80bbd-91e2-4098-bc3f-32066a49c386\", game:GetService(\"Players\").LocalPlayer)"
     },
     {
       "number": 3,
-      "fruitName": "Falcon Fruit",
-      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"c8a2f6c7-832f-42fa-be38-439291659f86\", game:GetService(\"Players\").LocalPlayer)"
-    },
-    {
-      "number": 4,
-      "fruitName": "Flame Fruit",
-      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"55086e13-501d-4625-9175-cd1fe81467b4\", game:GetService(\"Players\").LocalPlayer)"
-    },
-    {
-      "number": 5,
-      "fruitName": "Phoenix Fruit",
-      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"078997f7-2231-4781-9de6-6a72a8680109\", game:GetService(\"Players\").LocalPlayer)"
+      "fruitName": "Bomb Fruit",
+      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"1dae3534-caf1-4354-a292-41b5cebdbec3\", game:GetService(\"Players\").LocalPlayer)"
     }
   ]
 }

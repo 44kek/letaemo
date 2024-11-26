@@ -1,20 +1,14 @@
 {
   "servers": [
     {
-      "fruitName": "Chop Fruit",
-      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(4442272183, \"90e6f3a5-0da6-4a2d-bec6-c9aaf465802c\", game:GetService(\"Players\").LocalPlayer)"
+      "number": 1,
+      "fruitName": "Spin Fruit",
+      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(4442272183, \"9f3dc779-3c48-4029-a023-7a4d17026386\", game:GetService(\"Players\").LocalPlayer)"
     },
     {
-      "fruitName": "Dark Fruit",
-      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(4442272183, \"ab727471-86c6-4f85-8cff-d06e35b8028d\", game:GetService(\"Players\").LocalPlayer)"
-    },
-    {
-      "fruitName": "Flame Fruit",
-      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(4442272183, \"b47755fc-83ec-4a02-a27c-27e908f95df1\", game:GetService(\"Players\").LocalPlayer)"
-    },
-    {
-      "fruitName": "Ice Fruit",
-      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(4442272183, \"a5e47cde-7b30-411b-8ef5-dce0a66ee243\", game:GetService(\"Players\").LocalPlayer)"
+      "number": 2,
+      "fruitName": "Diamond Fruit",
+      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(4442272183, \"8af517bc-d1aa-4480-9123-5ac080ac33ff\", game:GetService(\"Players\").LocalPlayer)"
     }
   ]
 }
