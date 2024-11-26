@@ -2,13 +2,18 @@
   "servers": [
     {
       "number": 1,
-      "fruitName": "Bomb Fruit",
-      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"b49f1464-c787-40e0-9974-d936440999d7\", game:GetService(\"Players\").LocalPlayer)"
+      "fruitName": "Barrier Fruit",
+      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"f01251a2-4960-4553-ad93-9db46d3a77f8\", game:GetService(\"Players\").LocalPlayer)"
     },
     {
       "number": 2,
-      "fruitName": "Spring Fruit",
-      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"002cc99c-da68-4f90-a922-69b363d8638b\", game:GetService(\"Players\").LocalPlayer)"
+      "fruitName": "Pain Fruit",
+      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"44c24675-5bdd-4bfb-b5c4-fdc6f53fdf5a\", game:GetService(\"Players\").LocalPlayer)"
+    },
+    {
+      "number": 3,
+      "fruitName": "Chop Fruit",
+      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"3a62efd0-1f7a-4c77-b72d-a9409f8f26e8\", game:GetService(\"Players\").LocalPlayer)"
     }
   ]
 }
