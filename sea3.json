@@ -99,6 +99,26 @@
       "number": 20,
       "fruitName": "Rocket Fruit",
       "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"8dcb2091-29e8-42de-84d2-5e8fa632fcbf\", game:GetService(\"Players\").LocalPlayer)"
+    },
+    {
+      "number": 21,
+      "fruitName": "Smoke Fruit",
+      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"238b87a7-4ecf-465e-a424-6f8e47215c3c\", game:GetService(\"Players\").LocalPlayer)"
+    },
+    {
+      "number": 22,
+      "fruitName": "Spring Fruit",
+      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"c031eb1b-a816-49ef-9301-a05ca5aa3dde\", game:GetService(\"Players\").LocalPlayer)"
+    },
+    {
+      "number": 23,
+      "fruitName": "Chop Fruit",
+      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"fe1c6546-2523-467b-8a74-0109ed010637\", game:GetService(\"Players\").LocalPlayer)"
+    },
+    {
+      "number": 24,
+      "fruitName": "Diamond Fruit",
+      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"de4fd718-f62a-4ec9-872e-78ee31bbb74e\", game:GetService(\"Players\").LocalPlayer)"
     }
   ]
 }
