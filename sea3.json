@@ -14,6 +14,11 @@
       "number": 3,
       "fruitName": "Chop Fruit",
       "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"3a62efd0-1f7a-4c77-b72d-a9409f8f26e8\", game:GetService(\"Players\").LocalPlayer)"
+    },
+    {
+      "number": 4,
+      "fruitName": "Diamond Fruit",
+      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"805d63ae-b293-4dba-bf5d-798c7335a3bf\", game:GetService(\"Players\").LocalPlayer)"
     }
   ]
 }
