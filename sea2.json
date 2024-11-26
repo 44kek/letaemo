@@ -19,6 +19,26 @@
       "number": 4,
       "fruitName": "Flame Fruit",
       "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(4442272183, \"8ee95c83-efc8-47fd-8bf3-c296f94d6c7e\", game:GetService(\"Players\").LocalPlayer)"
+    },
+    {
+      "number": 5,
+      "fruitName": "Smoke Fruit",
+      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(4442272183, \"22e049f1-07c9-4f3d-b238-115cea856c00\", game:GetService(\"Players\").LocalPlayer)"
+    },
+    {
+      "number": 6,
+      "fruitName": "Smoke Fruit",
+      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(4442272183, \"7f9eb0bd-14d2-443a-93de-cfd3b33a23b3\", game:GetService(\"Players\").LocalPlayer)"
+    },
+    {
+      "number": 7,
+      "fruitName": "Buddha Fruit",
+      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(4442272183, \"54bf0d49-799d-48df-941a-b3c97bfdeac3\", game:GetService(\"Players\").LocalPlayer)"
+    },
+    {
+      "number": 8,
+      "fruitName": "Rumble Fruit",
+      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(4442272183, \"5f3507a0-d0ad-4eb0-baa5-95531e8fa766\", game:GetService(\"Players\").LocalPlayer)"
     }
   ]
 }
