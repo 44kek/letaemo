@@ -2,33 +2,13 @@
   "servers": [
     {
       "number": 1,
-      "fruitName": "Sand Fruit",
-      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"3ebf4855-7de6-440e-9c70-c167da45b15f\", game:GetService(\"Players\").LocalPlayer)"
+      "fruitName": "Rubber Fruit",
+      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"e642a98a-c166-4ac3-9aa4-f75fc77ad073\", game:GetService(\"Players\").LocalPlayer)"
     },
     {
       "number": 2,
-      "fruitName": "Flame Fruit",
-      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"1358ae41-708a-465f-9cac-110c95f1293e\", game:GetService(\"Players\").LocalPlayer)"
-    },
-    {
-      "number": 3,
-      "fruitName": "Barrier Fruit",
-      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"fd7b62da-1008-401f-807f-1fd20f147455\", game:GetService(\"Players\").LocalPlayer)"
-    },
-    {
-      "number": 4,
-      "fruitName": "Ghost Fruit",
-      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"e1eaefdb-fd2c-43f1-bc2f-126869bbbe37\", game:GetService(\"Players\").LocalPlayer)"
-    },
-    {
-      "number": 5,
-      "fruitName": "Smoke Fruit",
-      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"26af2115-c3a8-44c6-a491-272e52591468\", game:GetService(\"Players\").LocalPlayer)"
-    },
-    {
-      "number": 6,
-      "fruitName": "Spin Fruit",
-      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"d9405cfd-ad86-4e7a-aaf3-e45bcd0e5a44\", game:GetService(\"Players\").LocalPlayer)"
+      "fruitName": "Magma Fruit",
+      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"8dcb2091-29e8-42de-84d2-5e8fa632fcbf\", game:GetService(\"Players\").LocalPlayer)"
     }
   ]
 }
