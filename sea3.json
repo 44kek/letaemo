@@ -19,6 +19,26 @@
       "number": 4,
       "fruitName": "Ghost Fruit",
       "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"74965ae3-0712-4a42-888c-6fda7a52990f\", game:GetService(\"Players\").LocalPlayer)"
+    },
+    {
+      "number": 5,
+      "fruitName": "Light Fruit",
+      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"869344b4-412a-4bc9-a696-a3afe769f7f6\", game:GetService(\"Players\").LocalPlayer)"
+    },
+    {
+      "number": 6,
+      "fruitName": "Barrier Fruit",
+      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"db2e6c24-7270-4f51-86ee-c50a9484f08b\", game:GetService(\"Players\").LocalPlayer)"
+    },
+    {
+      "number": 7,
+      "fruitName": "Chop Fruit",
+      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"cb0238fe-a3c3-4ccc-a9cc-2c8309f0e515\", game:GetService(\"Players\").LocalPlayer)"
+    },
+    {
+      "number": 8,
+      "fruitName": "Love Fruit",
+      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"a0eac2f1-1bab-43f7-83eb-3597d0ad93a4\", game:GetService(\"Players\").LocalPlayer)"
     }
   ]
 }
