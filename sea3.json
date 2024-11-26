@@ -39,6 +39,26 @@
       "number": 8,
       "fruitName": "Love Fruit",
       "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"a0eac2f1-1bab-43f7-83eb-3597d0ad93a4\", game:GetService(\"Players\").LocalPlayer)"
+    },
+    {
+      "number": 9,
+      "fruitName": "Chop Fruit",
+      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"6a37bc05-46f6-41cb-ae33-e8e37dbf6b21\", game:GetService(\"Players\").LocalPlayer)"
+    },
+    {
+      "number": 10,
+      "fruitName": "Smoke Fruit",
+      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"351f1b53-f3de-4bc4-bc2c-925ef2c4a1a9\", game:GetService(\"Players\").LocalPlayer)"
+    },
+    {
+      "number": 11,
+      "fruitName": "Spike Fruit",
+      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"c194d173-8eb7-4e25-ab46-100af75b3fed\", game:GetService(\"Players\").LocalPlayer)"
+    },
+    {
+      "number": 12,
+      "fruitName": "Barrier Fruit",
+      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"962a0f5b-e3af-453a-9fbf-a30f0396bc08\", game:GetService(\"Players\").LocalPlayer)"
     }
   ]
 }
