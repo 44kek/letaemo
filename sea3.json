@@ -29,6 +29,16 @@
       "number": 6,
       "fruitName": "Pain Fruit",
       "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"32cf2462-23ee-439d-b965-2de652ce263d\", game:GetService(\"Players\").LocalPlayer)"
+    },
+    {
+      "number": 7,
+      "fruitName": "Spike Fruit",
+      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"3c28c544-0c8c-49c1-9a6d-2b6637f5e0ad\", game:GetService(\"Players\").LocalPlayer)"
+    },
+    {
+      "number": 8,
+      "fruitName": "Falcon Fruit",
+      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"9be4f247-0d40-4f0e-b0b4-1e7ef7b5cec1\", game:GetService(\"Players\").LocalPlayer)"
     }
   ]
 }
