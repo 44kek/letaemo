@@ -59,6 +59,31 @@
       "number": 12,
       "fruitName": "Barrier Fruit",
       "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"962a0f5b-e3af-453a-9fbf-a30f0396bc08\", game:GetService(\"Players\").LocalPlayer)"
+    },
+    {
+      "number": 13,
+      "fruitName": "Love Fruit",
+      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"273c296f-cb8a-459c-9dcf-c3f705538eab\", game:GetService(\"Players\").LocalPlayer)"
+    },
+    {
+      "number": 14,
+      "fruitName": "Barrier Fruit",
+      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"cba178ae-cb6b-4d79-8dae-1deff8b5b2d3\", game:GetService(\"Players\").LocalPlayer)"
+    },
+    {
+      "number": 15,
+      "fruitName": "Sand Fruit",
+      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"684f992a-ea18-4eee-abec-94081abc55e5\", game:GetService(\"Players\").LocalPlayer)"
+    },
+    {
+      "number": 16,
+      "fruitName": "Ice Fruit",
+      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"41b50890-fe41-4ccf-a342-07f46f390dc8\", game:GetService(\"Players\").LocalPlayer)"
+    },
+    {
+      "number": 17,
+      "fruitName": "Blizzard Fruit",
+      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"ebf1c59c-9dfe-4f35-b45e-a97a5e88dcdd\", game:GetService(\"Players\").LocalPlayer)"
     }
   ]
 }
