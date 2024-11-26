@@ -2,13 +2,13 @@
   "servers": [
     {
       "number": 1,
-      "fruitName": "Flame Fruit",
-      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(4442272183, \"9f3dc779-3c48-4029-a023-7a4d17026386\", game:GetService(\"Players\").LocalPlayer)"
+      "fruitName": "Ice Fruit",
+      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(4442272183, \"02dbae32-2b82-48f9-8755-7e621d9cb870\", game:GetService(\"Players\").LocalPlayer)"
     },
     {
       "number": 2,
-      "fruitName": "Chop Fruit",
-      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(4442272183, \"c6b6782d-ed3f-4394-913f-6949c14c5b1d\", game:GetService(\"Players\").LocalPlayer)"
+      "fruitName": "Spring Fruit",
+      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(4442272183, \"c522f400-4aad-4e75-90dc-74ff130e5d39\", game:GetService(\"Players\").LocalPlayer)"
     }
   ]
 }
