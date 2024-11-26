@@ -2,8 +2,8 @@
   "servers": [
     {
       "number": 1,
-      "fruitName": "Spin Fruit",
-      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(2753915549, \"a484d049-9206-46f7-b08c-7c86d058609d\", game:GetService(\"Players\").LocalPlayer)"
+      "fruitName": "Smoke Fruit",
+      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(2753915549, \"381c2be9-9a6e-47f9-b81c-23b5f69043a1\", game:GetService(\"Players\").LocalPlayer)"
     }
   ]
 }
