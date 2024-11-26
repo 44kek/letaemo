@@ -9,6 +9,21 @@
       "number": 2,
       "fruitName": "Magma Fruit",
       "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"8dcb2091-29e8-42de-84d2-5e8fa632fcbf\", game:GetService(\"Players\").LocalPlayer)"
+    },
+    {
+      "number": 3,
+      "fruitName": "Sand Fruit",
+      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"eb197211-a0c7-455f-bae8-963a7510fe2d\", game:GetService(\"Players\").LocalPlayer)"
+    },
+    {
+      "number": 4,
+      "fruitName": "Sand Fruit",
+      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"39d2c520-93b2-44e4-af20-254878ca7cf0\", game:GetService(\"Players\").LocalPlayer)"
+    },
+    {
+      "number": 5,
+      "fruitName": "Flame Fruit",
+      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"5a92092c-0e60-475f-93d7-fec97064e78a\", game:GetService(\"Players\").LocalPlayer)"
     }
   ]
 }
