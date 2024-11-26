@@ -9,6 +9,16 @@
       "number": 2,
       "fruitName": "Sand Fruit",
       "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(4442272183, \"f5a0a18d-143f-4ba1-8a57-3517c5f0f9b2\", game:GetService(\"Players\").LocalPlayer)"
+    },
+    {
+      "number": 3,
+      "fruitName": "Rubber Fruit",
+      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(4442272183, \"6c87e653-c5d3-4de9-b39e-a42c83d3abcb\", game:GetService(\"Players\").LocalPlayer)"
+    },
+    {
+      "number": 4,
+      "fruitName": "Diamond Fruit",
+      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(4442272183, \"15bc842a-fe30-4205-a316-822568767a2d\", game:GetService(\"Players\").LocalPlayer)"
     }
   ]
 }
