@@ -49,6 +49,16 @@
       "number": 10,
       "fruitName": "Barrier Fruit",
       "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"fd7b62da-1008-401f-807f-1fd20f147455\", game:GetService(\"Players\").LocalPlayer)"
+    },
+    {
+      "number": 11,
+      "fruitName": "Diamond Fruit",
+      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"49761cee-a30e-425b-bc43-d6e971f93ac6\", game:GetService(\"Players\").LocalPlayer)"
+    },
+    {
+      "number": 12,
+      "fruitName": "Spike Fruit",
+      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"3a62efd0-1f7a-4c77-b72d-a9409f8f26e8\", game:GetService(\"Players\").LocalPlayer)"
     }
   ]
 }
