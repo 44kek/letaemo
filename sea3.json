@@ -2,18 +2,13 @@
   "servers": [
     {
       "number": 1,
-      "fruitName": "Sand Fruit",
-      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"475dea99-2d06-4d00-98be-17ceaecc6e5d\", game:GetService(\"Players\").LocalPlayer)"
+      "fruitName": "Light Fruit",
+      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"d3aa70ad-5298-4844-9da0-eaa91dd6522f\", game:GetService(\"Players\").LocalPlayer)"
     },
     {
       "number": 2,
-      "fruitName": "Diamond Fruit",
-      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"b1b80bbd-91e2-4098-bc3f-32066a49c386\", game:GetService(\"Players\").LocalPlayer)"
-    },
-    {
-      "number": 3,
-      "fruitName": "Bomb Fruit",
-      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"1dae3534-caf1-4354-a292-41b5cebdbec3\", game:GetService(\"Players\").LocalPlayer)"
+      "fruitName": "Ghost Fruit",
+      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"0dbfd8d1-c4a1-4fdf-9530-925886fd7c8e\", game:GetService(\"Players\").LocalPlayer)"
     }
   ]
 }
