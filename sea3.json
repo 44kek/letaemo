@@ -54,6 +54,16 @@
       "number": 11,
       "fruitName": "Chop Fruit",
       "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"57a6ef96-24ed-4a9d-8560-005adbd9eb4e\", game:GetService(\"Players\").LocalPlayer)"
+    },
+    {
+      "number": 12,
+      "fruitName": "Rocket Fruit",
+      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"de4fd718-f62a-4ec9-872e-78ee31bbb74e\", game:GetService(\"Players\").LocalPlayer)"
+    },
+    {
+      "number": 13,
+      "fruitName": "Rocket Fruit",
+      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"2b39ce5e-916a-47e5-ae53-76adf497bef7\", game:GetService(\"Players\").LocalPlayer)"
     }
   ]
 }
