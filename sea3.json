@@ -39,6 +39,16 @@
       "number": 8,
       "fruitName": "Falcon Fruit",
       "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"9be4f247-0d40-4f0e-b0b4-1e7ef7b5cec1\", game:GetService(\"Players\").LocalPlayer)"
+    },
+    {
+      "number": 9,
+      "fruitName": "Flame Fruit",
+      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"a5623166-0d5e-4f69-b4c3-34b4973fa3bb\", game:GetService(\"Players\").LocalPlayer)"
+    },
+    {
+      "number": 10,
+      "fruitName": "Barrier Fruit",
+      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"fd7b62da-1008-401f-807f-1fd20f147455\", game:GetService(\"Players\").LocalPlayer)"
     }
   ]
 }
