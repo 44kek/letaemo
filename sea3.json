@@ -84,6 +84,21 @@
       "number": 17,
       "fruitName": "Blizzard Fruit",
       "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"ebf1c59c-9dfe-4f35-b45e-a97a5e88dcdd\", game:GetService(\"Players\").LocalPlayer)"
+    },
+    {
+      "number": 18,
+      "fruitName": "Sand Fruit",
+      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"d211d23f-a4b6-45d4-9f3d-c4e899e0de03\", game:GetService(\"Players\").LocalPlayer)"
+    },
+    {
+      "number": 19,
+      "fruitName": "Spin Fruit",
+      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"848c8794-e426-4a8b-8952-37752390ee7f\", game:GetService(\"Players\").LocalPlayer)"
+    },
+    {
+      "number": 20,
+      "fruitName": "Rocket Fruit",
+      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"8dcb2091-29e8-42de-84d2-5e8fa632fcbf\", game:GetService(\"Players\").LocalPlayer)"
     }
   ]
 }
