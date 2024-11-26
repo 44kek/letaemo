@@ -1,3 +1,8 @@
 {
-  "servers": []
+  "servers": [
+    {
+      "fruitName": "Spike Fruit",
+      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"f8cd0ac8-34ed-49da-8e22-60641ce129f7\", game:GetService(\"Players\").LocalPlayer)"
+    }
+  ]
 }
