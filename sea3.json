@@ -44,6 +44,11 @@
       "number": 9,
       "fruitName": "Spike Fruit",
       "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"6a37bc05-46f6-41cb-ae33-e8e37dbf6b21\", game:GetService(\"Players\").LocalPlayer)"
+    },
+    {
+      "number": 10,
+      "fruitName": "Dark Fruit",
+      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"84c7c0ac-46f1-4e50-87a1-6f10cdb26d44\", game:GetService(\"Players\").LocalPlayer)"
     }
   ]
 }
