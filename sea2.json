@@ -14,6 +14,11 @@
       "number": 3,
       "fruitName": "Spin Fruit",
       "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(4442272183, \"9f3dc779-3c48-4029-a023-7a4d17026386\", game:GetService(\"Players\").LocalPlayer)"
+    },
+    {
+      "number": 4,
+      "fruitName": "Magma Fruit",
+      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(4442272183, \"de52eb1c-a3e7-46f5-bc7b-a1a54b4084fd\", game:GetService(\"Players\").LocalPlayer)"
     }
   ]
 }
