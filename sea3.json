@@ -9,6 +9,16 @@
       "number": 2,
       "fruitName": "Ghost Fruit",
       "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"317a0f19-9007-488b-bbd9-2e4cfd59ef2d\", game:GetService(\"Players\").LocalPlayer)"
+    },
+    {
+      "number": 3,
+      "fruitName": "Light Fruit",
+      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"14116623-cd99-405b-904e-54c22fede268\", game:GetService(\"Players\").LocalPlayer)"
+    },
+    {
+      "number": 4,
+      "fruitName": "Rocket Fruit",
+      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"6ebf045a-d040-4485-88bf-4e2fb4d5b929\", game:GetService(\"Players\").LocalPlayer)"
     }
   ]
 }
