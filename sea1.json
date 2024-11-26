@@ -4,6 +4,11 @@
       "number": 1,
       "fruitName": "Smoke Fruit",
       "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(2753915549, \"381c2be9-9a6e-47f9-b81c-23b5f69043a1\", game:GetService(\"Players\").LocalPlayer)"
+    },
+    {
+      "number": 2,
+      "fruitName": "Spring Fruit",
+      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(2753915549, \"0d02668b-477c-4c42-9868-4ca53d6b416b\", game:GetService(\"Players\").LocalPlayer)"
     }
   ]
 }
