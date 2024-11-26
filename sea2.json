@@ -1,3 +1,12 @@
 {
-  "servers": []
+  "servers": [
+    {
+      "fruitName": "Chop Fruit",
+      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(4442272183, \"90e6f3a5-0da6-4a2d-bec6-c9aaf465802c\", game:GetService(\"Players\").LocalPlayer)"
+    },
+    {
+      "fruitName": "Dark Fruit",
+      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(4442272183, \"ab727471-86c6-4f85-8cff-d06e35b8028d\", game:GetService(\"Players\").LocalPlayer)"
+    }
+  ]
 }
