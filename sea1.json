@@ -2,13 +2,13 @@
   "servers": [
     {
       "number": 1,
-      "fruitName": "Rubber Fruit",
-      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(2753915549, \"14dec7b4-9e55-4c6e-a113-bf2367172fe5\", game:GetService(\"Players\").LocalPlayer)"
+      "fruitName": "Light Fruit",
+      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(2753915549, \"088c9778-5099-449c-b097-d2835b8a1b55\", game:GetService(\"Players\").LocalPlayer)"
     },
     {
       "number": 2,
-      "fruitName": "Spike Fruit",
-      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(2753915549, \"226952a5-d104-4ba6-bb52-fb29b2095835\", game:GetService(\"Players\").LocalPlayer)"
+      "fruitName": "Gravity Fruit",
+      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(2753915549, \"8d85dac4-6040-42a6-8105-22287f8d436c\", game:GetService(\"Players\").LocalPlayer)"
     }
   ]
 }
