@@ -24,6 +24,11 @@
       "number": 5,
       "fruitName": "Sand Fruit",
       "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"238b87a7-4ecf-465e-a424-6f8e47215c3c\", game:GetService(\"Players\").LocalPlayer)"
+    },
+    {
+      "number": 6,
+      "fruitName": "Dark Fruit",
+      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"e24c2d11-c9fd-4375-a8c6-695070c5dcf3\", game:GetService(\"Players\").LocalPlayer)"
     }
   ]
 }
