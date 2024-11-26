@@ -89,6 +89,16 @@
       "number": 18,
       "fruitName": "Magma Fruit",
       "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"74d78d3e-dc64-4a5a-a498-3247e6c7b2e8\", game:GetService(\"Players\").LocalPlayer)"
+    },
+    {
+      "number": 19,
+      "fruitName": "Ice Fruit",
+      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"98db54df-3679-4c70-9511-ccf3e55a1ab6\", game:GetService(\"Players\").LocalPlayer)"
+    },
+    {
+      "number": 20,
+      "fruitName": "Chop Fruit",
+      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"119bc272-4dc1-4eff-889a-3b3026be21a3\", game:GetService(\"Players\").LocalPlayer)"
     }
   ]
 }
