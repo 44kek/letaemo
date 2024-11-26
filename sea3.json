@@ -24,6 +24,11 @@
       "number": 5,
       "fruitName": "Flame Fruit",
       "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"5a92092c-0e60-475f-93d7-fec97064e78a\", game:GetService(\"Players\").LocalPlayer)"
+    },
+    {
+      "number": 6,
+      "fruitName": "Pain Fruit",
+      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"32cf2462-23ee-439d-b965-2de652ce263d\", game:GetService(\"Players\").LocalPlayer)"
     }
   ]
 }
