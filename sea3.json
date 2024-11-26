@@ -69,6 +69,16 @@
       "number": 14,
       "fruitName": "Chop Fruit",
       "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"82338e7c-f2ae-4a40-8bc9-5a5dd4b4832f\", game:GetService(\"Players\").LocalPlayer)"
+    },
+    {
+      "number": 15,
+      "fruitName": "Ghost Fruit",
+      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"3cc23edf-17c7-4efe-936d-9e047b781228\", game:GetService(\"Players\").LocalPlayer)"
+    },
+    {
+      "number": 16,
+      "fruitName": "Spike Fruit",
+      "script": "game:GetService(\"TeleportService\"):TeleportToPlaceInstance(7449423635, \"7285ae93-192c-4493-a4df-de86bb1f466e\", game:GetService(\"Players\").LocalPlayer)"
     }
   ]
 }
